@@ -1,0 +1,3 @@
+C:/Users/diego/OneDrive/Escritorio/Codigo 2do Parcial/Proyecto 2do parcial/DL_RPG/cmake-build-debug/CMakeFiles/rpg.dir
+C:/Users/diego/OneDrive/Escritorio/Codigo 2do Parcial/Proyecto 2do parcial/DL_RPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/OneDrive/Escritorio/Codigo 2do Parcial/Proyecto 2do parcial/DL_RPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
